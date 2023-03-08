@@ -5,10 +5,10 @@ REQUEST №1
 Method: GET EndPoint: /get_method request url params: name: German age: 25
 
 RESPONSE №1
-[
+{
     "German",
     "25"
-]
+}
 REQUEST №2
 Method: POST EndPoint: /user_info_3 request form data: name: German age: 25 salary: 1000
 
